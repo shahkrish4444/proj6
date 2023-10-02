@@ -1,0 +1,10 @@
+
+.comment{
+    margin: auto;
+  width: 500px;
+  background-color: rgb(127, 214, 185);
+  color: blue;
+  border: 1px solid red;
+  margin-top: 100px;
+  padding: 10px;
+}
